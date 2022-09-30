@@ -2,13 +2,13 @@
 
 #Genera la página
 
-/usr//bin/bundle2.7 exec jekyll serve
+/usr//bin/bundle2.7 exec jekyll serve 
 
 #Despliega la página
 
 cd _site/
 
-git add *
+git add . --all || true
 
 git commit -am "Actualización de la página"
 
