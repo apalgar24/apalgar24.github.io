@@ -11,6 +11,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/prueba/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/jekyll/update/2021/09/29/welcome-to-jekyll.html</loc>
 <lastmod>2022-09-30T10:10:37+02:00</lastmod>
 </url>
