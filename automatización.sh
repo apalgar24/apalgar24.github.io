@@ -3,7 +3,7 @@
 #Genera la página
 #Proceso en segundo plano
 
-/usr//bin/bundle2.7 exec jekyll serve &
+/usr/bin/bundle2.7 exec jekyll serve &
 
 #Despliega la página
 
